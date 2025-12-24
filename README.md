@@ -1,17 +1,15 @@
 <div align="center">
 
-# 🛡️💀 THE HACKER PLAYBOOK 2025 💀🛡️
+# 🛡️💀 THE CYBER PLAYBOOK 2025 💀🛡️
 
 ### *The Ultimate Cybersecurity Playbook*
 
 **600+ Tools • 12+ Professional Templates • 200+ Pages of Knowledge**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/R3D-4CT3D/hacker-playbook-2025)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R3D-4CT3D/hacker-playbook-2025/graphs/commit-activity)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/R3D-4CT3D/cyber-playbook-2025)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R3D-4CT3D/cyber-playbook-2025/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-<img src="https://raw.githubusercontent.com/R3D-4CT3D/cyber-playbook-2025/main/assets/banner.png" alt="Hacker Playbook Banner" width="800"/>
 
 *Your comprehensive guide to cybersecurity tools, techniques, and professional reporting*
 
@@ -23,7 +21,7 @@
 
 ## 🎯 What Is This?
 
-The **Hacker Playbook 2025** is a complete, professional-grade cybersecurity reference containing everything you need for penetration testing, incident response, digital forensics, SOC operations, and more.
+The **Cyber Playbook 2025** is a complete, professional-grade cybersecurity reference containing everything you need for penetration testing, incident response, digital forensics, SOC operations, and more.
 
 ### ✨ What You Get
 
@@ -75,7 +73,7 @@ The **Hacker Playbook 2025** is a complete, professional-grade cybersecurity ref
 ## 📂 Repository Structure
 
 ```
-hacker-playbook-2025/
+cyber-playbook-2025/
 │
 ├── 📖 00_START_HERE.md              ← 🎯 Begin your journey here
 ├── ⚡ 1_Quick_Reference_Guide.md     ← Essential commands & payloads
@@ -246,7 +244,7 @@ hacker-playbook-2025/
 git clone https://github.com/R3D-4CT3D/cyber-playbook-2025.git
 
 # Navigate to the directory
-cd hacker-playbook-2025
+cd cyebr-playbook-2025
 
 # Start with the navigation guide
 cat 00_START_HERE.md
@@ -782,7 +780,7 @@ It helps others discover this resource and motivates continued development.
 
 *Use Responsibly • Stay Legal • Happy (Ethical) Hacking!*
 
-🛡️💀 **Hacker Playbook 2025** 💀🛡️
+🛡️💀 **Cyber Playbook 2025** 💀🛡️
 
 Version 2.0 | November 2025 | MIT License
 
