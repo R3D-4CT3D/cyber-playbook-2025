@@ -70,29 +70,6 @@ The **Cyber Playbook 2025** is a complete, professional-grade cybersecurity refe
 
 ---
 
-## 📂 Repository Structure
-
-```
-cyber-playbook-2025/
-│
-├── 📖 00_START_HERE.md              ← 🎯 Begin your journey here
-├── ⚡ 1_Quick_Reference_Guide.md     ← Essential commands & payloads
-├── 🔧 2_Complete_Tools_Catalog.md   ← 600+ tools documented
-├── 📋 3_Professional_Templates.md   ← 12+ report templates
-├── 📄 README.md                     ← You are here
-│
-├── assets/
-│   ├── banner.png
-│   ├── icons/
-│   └── screenshots/
-│
-├── CONTRIBUTING.md
-├── LICENSE
-└── CHANGELOG.md
-```
-
----
-
 ## 🚀 Quick Start
 
 ### For Penetration Testers
