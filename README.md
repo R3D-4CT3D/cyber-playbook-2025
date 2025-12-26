@@ -579,31 +579,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**In Summary:**
-- ✅ Free to use, modify, and distribute
-- ✅ Commercial use allowed
-- ✅ Private use allowed
-- ⚠️ Must include copyright notice
-- ⚠️ No warranty provided
-
----
-
-## 🌟 Star History
-
-<a href="https://star-history.com/#R3D-4CT3D/cyber-playbook-2025&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=R3D-4CT3D/cyber-playbook-2025&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=R3D-4CT3D/cyber-playbook-2025&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=R3D-4CT3D/cyber-playbook-2025&type=Date" />
-  </picture>
-</a>
-
----
-
 ## 📈 Statistics
 
 <div align="center">
@@ -634,28 +609,6 @@ This playbook was built with inspiration from:
 - The amazing **cybersecurity community**
 
 Special thanks to all the tool developers and open-source contributors who make this field amazing.
-
----
-
-## 📞 Support & Community
-
-<div align="center">
-
-### 💬 Join the Discussion
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-### 📧 Contact
-
-Have questions? Reach out!
-
-- 📧 Email: 
-- 🐛 Issues: [GitHub Issues](https://github.com/R3D-4CT3D/cyber-playbook-2025/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/R3D-4CT3D/cyber-playbook-2025/discussions)
-
-</div>
 
 ---
 
@@ -690,60 +643,6 @@ Have questions? Reach out!
 - *Black Hat Python* - Justin Seitz
 - *RTFM: Red Team Field Manual* - Ben Clark
 - *Blue Team Handbook* - Don Murdoch
-
----
-
-## 📅 Changelog
-
-### Version 2.0 (November 2025) - Current Release
-
-**🎉 Major Release - Complete Rewrite**
-
-#### Added
-- ✅ 600+ tools documented (up from 200)
-- ✅ 12+ professional report templates
-- ✅ Complete methodologies for pentesting, IR, forensics
-- ✅ Quick reference guide with essential commands
-- ✅ Blue/Red/Purple team indicators
-- ✅ Comprehensive navigation system
-- ✅ Use case scenarios and learning paths
-
-#### Enhanced
-- 🔧 Improved organization and categorization
-- 🔧 Better search functionality
-- 🔧 More detailed tool documentation
-- 🔧 Professional-grade templates
-- 🔧 Updated for 2025 tools and techniques
-
-#### Documentation
-- 📖 Complete START HERE guide
-- 📖 Contribution guidelines
-- 📖 Detailed use cases
-- 📖 Learning paths for all skill levels
-
-### Version 1.5 (June 2025)
-- Added Purple Team section
-- Enhanced templates
-- Tool updates
-
-### Version 1.0 (January 2025)
-- Initial release
-- Basic tool coverage
-- Core templates
-
-See [CHANGELOG.md](CHANGELOG.md) for complete history.
-
----
-
-<div align="center">
-
-## ⭐ Star This Repository!
-
-**If you find this playbook useful, please consider starring it!**
-
-It helps others discover this resource and motivates continued development.
-
-[![GitHub stars](https://img.shields.io/github/stars/R3D-4CT3D/cyber-playbook-2025.svg?style=social&label=Star)](https://github.com/R3D-4CT3D/cyber-playbook-2025)
 
 ---
 
